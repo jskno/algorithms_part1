@@ -18,5 +18,11 @@ Quick Find
         - Integer array id[] of size N
         - Interpretation: p and q are connected iff they have the same id.
 
+Quick Union
 
+    Data Structure:
+        - Integer array id[] of size N.
+        - Interpretation: id[i] is parent of i.
+        - Root of i is id[id[id[...id[i]...]]]. 
+            (keep going until it doesn't change - algoritm ensures no cycles)
 
