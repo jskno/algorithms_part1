@@ -1,11 +1,11 @@
 package com.jskno.f_interview_questions;
 
-public class B_UnionFindCanonicalElement {
+public class B1_UnionFindCanonicalElement {
 
     private final int[] id;
     private final int[] sz;
 
-    public B_UnionFindCanonicalElement(int n) {
+    public B1_UnionFindCanonicalElement(int n) {
         id =  new int[n];
         sz =  new int[n];
         for (int i = 0; i < n; ++i) {

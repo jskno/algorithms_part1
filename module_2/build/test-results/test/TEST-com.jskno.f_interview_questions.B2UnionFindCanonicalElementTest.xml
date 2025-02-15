@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.jskno.f_interview_questions.B2UnionFindCanonicalElementTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-02-15T16:09:18" hostname="PORTATIL-338" time="41.637">
+  <properties/>
+  <testcase name="test()" classname="com.jskno.f_interview_questions.B2UnionFindCanonicalElementTest" time="41.637"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
