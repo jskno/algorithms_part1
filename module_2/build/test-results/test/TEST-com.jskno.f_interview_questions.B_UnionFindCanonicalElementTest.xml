@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.jskno.f_interview_questions.B_UnionFindCanonicalElementTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-02-09T19:01:26" hostname="jskno-Latitude-3410" time="0.032">
+  <properties/>
+  <testcase name="test()" classname="com.jskno.f_interview_questions.B_UnionFindCanonicalElementTest" time="0.032"/>
+  <system-out><![CDATA[6
+7
+8
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
