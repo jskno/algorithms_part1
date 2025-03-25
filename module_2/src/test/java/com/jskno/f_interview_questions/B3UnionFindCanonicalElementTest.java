@@ -3,11 +3,11 @@ package com.jskno.f_interview_questions;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class B2UnionFindCanonicalElementTest {
+public class B3UnionFindCanonicalElementTest {
 
     @Test
     public void test() {
-        B2_UnionFindCanonicalElement uf = new B2_UnionFindCanonicalElement(16);
+        B3_HintWeightedQuickUnionUF uf = new B3_HintWeightedQuickUnionUF(16);
         uf.union(6, 0);
         uf.union(0, 5);
 

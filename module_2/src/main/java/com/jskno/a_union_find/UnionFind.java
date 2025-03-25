@@ -2,7 +2,7 @@ package com.jskno.a_union_find;
 
 public class UnionFind {
 
-    private int[] objects;
+    private final int[] objects;
 
     // initialize union-find data structure with N objects (0 to N-1)
     public UnionFind(int n) {
